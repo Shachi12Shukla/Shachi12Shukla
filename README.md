@@ -38,7 +38,7 @@
 
 ## 📌 Recent Project
 
-- 📑 [Simple_Linear_Regression](https://github.com/Shachi12Shukla/Simple_Linear_Regression)
+- 📑 [Multiple_Linear_Regression](https://github.com/Shachi12Shukla/Multiple_Linear_Regression)
 
 ---
 
