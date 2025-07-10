@@ -38,7 +38,7 @@
 
 ## 📌 Recent Project
 
-- 📑 [Doc Summarizer](https://github.com/Shachi12Shukla/doc-summarizer)
+- 📑 [Simple_Linear_Regression](https://github.com/Shachi12Shukla/Simple_Linear_Regression)
 
 ---
 
