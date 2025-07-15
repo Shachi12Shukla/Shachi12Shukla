@@ -38,7 +38,7 @@
 
 ## 📌 Recent Project
 
-- 📑 [Multiple_Linear_Regression](https://github.com/Shachi12Shukla/Multiple_Linear_Regression)
+- 📑 [Linear_To_ElasticNet](https://github.com/Shachi12Shukla/Linear_To_ElasticNet)
 
 ---
 
