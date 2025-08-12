@@ -38,7 +38,7 @@
 
 ## 📌 Recent Project
 
-- 📑 [Linear_To_ElasticNet](https://github.com/Shachi12Shukla/Linear_To_ElasticNet)
+- 📑 [Chat With PDF](https://github.com/Shachi12Shukla/DocQA)
 
 ---
 
