@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi there 👋, I'm Shachi Shukla</h1>
-<h3 align="center">A creative Builder and AI enthusiast </h3>
+<h3 align="center">A creative builder and AI enthusiast </h3>
 
 ---
 
