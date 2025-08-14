@@ -63,13 +63,3 @@
 
 ---
 
-## 📌 Pinned
-
-<p align="center">
-  <a href="https://github.com/Shachi12Shukla/DocQA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shachi12Shukla&repo=DocQA&theme=radical" alt="DocQA"/>
-  </a>
-  <a href="https://github.com/Shachi12Shukla/YourSecondRepo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shachi12Shukla&repo=YourSecondRepo&theme=radical" alt="Second Repo"/>
-  </a>
-</p>
