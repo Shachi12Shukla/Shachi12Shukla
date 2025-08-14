@@ -39,6 +39,14 @@
 
 ---
 
+##  Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shachi12Shukla&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+---
+
 ## 📌 Recent Project
 
 - 📑 [Chat With PDF](https://github.com/Shachi12Shukla/DocQA) — A RAG-based app to chat with your documents.
