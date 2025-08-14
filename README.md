@@ -8,7 +8,7 @@
 ## 👩‍💻 About Me
 
 - 🌱 I’m currently learning **Web Development**
-- 💼 Building projects with **Streamlit, LangChain, LlamaIndex, and Ollama**
+- 💼 Building projects with **Streamlit, LangChain, LlamaIndex**
 - 🧠 Exploring **Data Structures, Algorithms, AI, and Systems Design**
 - 🏆 Finalist at SIH’24, Rank Holder at Internal Hackathon, and an IEEE Member
 - 📫 Reach me at **shachi.03shukla@gmail.com**
