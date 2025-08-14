@@ -23,7 +23,11 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
 ![LangChain](https://img.shields.io/badge/-LangChain-000000?logo=langchain&logoColor=white&style=flat)
 ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-1D222D?logo=data&logoColor=white&style=flat)
-![Ollama](https://img.shields.io/badge/-Ollama-161B22?logo=rocket&logoColor=white&style=flat)
+![Pandas](https://techicons.dev/icons/pandas)
+![Numpy](https://logosandtypes.com/alphabet/letter-n/numpy/)
+![Scikit Learn](https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg)
+![Matplotlib](https://brandfetch.com/matplotlib.org)
+
 
 ---
 
