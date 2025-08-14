@@ -39,7 +39,7 @@
 
 ---
 
-##  Profile Views
+## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shachi12Shukla&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
@@ -59,4 +59,17 @@
   <a href="mailto:shachi.03shukla@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/shachi-shukla/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Shachi12Shukla"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## 📌 Pinned
+
+<p align="center">
+  <a href="https://github.com/Shachi12Shukla/DocQA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shachi12Shukla&repo=DocQA&theme=radical" alt="DocQA"/>
+  </a>
+  <a href="https://github.com/Shachi12Shukla/YourSecondRepo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shachi12Shukla&repo=YourSecondRepo&theme=radical" alt="Second Repo"/>
+  </a>
 </p>
