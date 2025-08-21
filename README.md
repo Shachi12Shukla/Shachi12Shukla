@@ -49,7 +49,7 @@
 
 ## 📌 Recent Project
 
-- 📑 [Chat With PDF](https://github.com/Shachi12Shukla/DocQA) — A RAG-based app to chat with your documents.
+- 📑 [Student Score Prediction](https://github.com/Shachi12Shukla/Student-Score-) — Student performance score prediction 
 
 ---
 
